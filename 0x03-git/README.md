@@ -1,1 +1,1 @@
-This is my firat Git project
+This is my first Git project
